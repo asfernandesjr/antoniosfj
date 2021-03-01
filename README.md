@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**antoniobsi21/antoniobsi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Antônio Fernandes, estou cursando bacharel em sistemas de informação. Tive o primeiro contato desenvolvimento web no ensino médio com HTML, CSS, JS e PHP, onde foi desenvolvido o trabalho de conclusão de curso. Na faculdade, conheci Python, onde utilizamos Django para o desenvolvimento de um API Rest junto com VueJS para o consumo do API.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniobsi21)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais tecnologias no estudo
+* PHP
+* Python, Django
+* HTML, CSS, JS, Bootstrap
+
+## Procurando aprender
+* Node.js, Express
+* React
