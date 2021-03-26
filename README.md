@@ -4,6 +4,7 @@ Olá, meu nome é Antônio Fernandes, estou cursando bacharel em sistemas de inf
 
 ## Principais tecnologias no estudo
 * PHP
+* MySQL, PostgreSQL
 * Python, Django
 * HTML, CSS, JS, Bootstrap
 
