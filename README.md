@@ -6,7 +6,7 @@ Olá, meu nome é Antônio Fernandes, estou cursando bacharel em sistemas de inf
 * PHP
 * MySQL, PostgreSQL
 * Node.js, Express
-* HTML, CSS, JS, Bootstrap
+* HTML, CSS, JS
 
 ## Procurando aprender
 * VueJS, React, etc
